@@ -1,0 +1,9 @@
+bin/
+obj/
+*.db
+*.log
+*.pdb
+*.exe
+*.dll
+*.lock.json
+.vs/
